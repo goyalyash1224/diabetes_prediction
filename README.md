@@ -18,5 +18,10 @@ Predictor variables/features:
     Outcome: Class variable (0 or 1)
 
 Here in the solution I compared different machine learning algorithms(ensemble method, gaussian classifier, logistic regression, naive bayes , nearest neighbours , Decision trees , etc.) and a deep learning model . 
+
+
 After training these different models I used AUC-ROC value as a comparison parameter and choose one machine learning algorithm for further fine tuning of hyperparameters  of choosen algorithm.
+
+
+
 Here I achieved around 82% accuracy score.
